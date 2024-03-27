@@ -35,7 +35,7 @@ require (
 	github.com/charmbracelet/bubbles v0.18.0
 	github.com/charmbracelet/bubbletea v0.25.0
 	github.com/charmbracelet/lipgloss v0.10.0
-	github.com/hashicorp/hcl/v2 v2.20.0
+	github.com/hashicorp/hcl/v2 v2.20.1
 	github.com/mattn/go-runewidth v0.0.15
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
