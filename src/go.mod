@@ -33,7 +33,7 @@ require (
 require (
 	github.com/ConradIrwin/font v0.0.0-20210318200717-ce8d41cc0732
 	github.com/charmbracelet/bubbles v0.19.0
-	github.com/charmbracelet/bubbletea v1.0.0
+	github.com/charmbracelet/bubbletea v1.0.1
 	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/hashicorp/hcl/v2 v2.22.0
 	github.com/mattn/go-runewidth v0.0.16
