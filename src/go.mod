@@ -1,7 +1,7 @@
 module github.com/jandedobbeleer/oh-my-posh/src
 
 go 1.21
-toolchain go1.22.5
+toolchain go1.23.7
 
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161
@@ -41,7 +41,7 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/mod v0.22.0
+	golang.org/x/mod v0.24.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
