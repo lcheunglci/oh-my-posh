@@ -41,7 +41,7 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/mod v0.22.0
+	golang.org/x/mod v0.24.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
