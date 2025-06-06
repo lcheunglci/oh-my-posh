@@ -1,6 +1,7 @@
 module github.com/jandedobbeleer/oh-my-posh/src
 
-go 1.21
+go 1.23.0
+
 toolchain go1.24.1
 
 require (
@@ -25,9 +26,9 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
 	golang.org/x/crypto v0.26.0 // indirect
-	golang.org/x/image v0.27.0
-	golang.org/x/sys v0.32.0
-	golang.org/x/text v0.25.0
+	golang.org/x/image v0.28.0
+	golang.org/x/sys v0.33.0
+	golang.org/x/text v0.26.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
@@ -41,7 +42,7 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.6
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
-	golang.org/x/mod v0.24.0
+	golang.org/x/mod v0.25.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -94,9 +95,9 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	github.com/zclconf/go-cty v1.13.1 // indirect
-	golang.org/x/sync v0.14.0 // indirect
+	golang.org/x/sync v0.15.0 // indirect
 	golang.org/x/term v0.23.0 // indirect
-	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
+	golang.org/x/tools v0.33.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 )
 
