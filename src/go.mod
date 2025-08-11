@@ -26,9 +26,9 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
 	golang.org/x/crypto v0.38.0 // indirect
-	golang.org/x/image v0.29.0
+	golang.org/x/image v0.30.0
 	golang.org/x/sys v0.35.0
-	golang.org/x/text v0.27.0
+	golang.org/x/text v0.28.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
@@ -96,7 +96,7 @@ require (
 	github.com/zclconf/go-cty v1.16.3 // indirect
 	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/term v0.32.0 // indirect
-	golang.org/x/tools v0.34.0 // indirect
+	golang.org/x/tools v0.35.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 )
 
