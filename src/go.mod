@@ -14,7 +14,7 @@ require (
 	github.com/fogleman/gg v1.3.0
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/google/uuid v1.6.0 // indirect
-	github.com/gookit/color v1.5.4
+	github.com/gookit/color v1.6.0
 	github.com/gookit/config/v2 v2.2.7
 	github.com/gookit/goutil v0.7.1 // indirect
 	github.com/huandu/xstrings v1.5.0 // indirect
