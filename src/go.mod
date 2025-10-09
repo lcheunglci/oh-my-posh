@@ -28,7 +28,7 @@ require (
 	golang.org/x/crypto v0.38.0 // indirect
 	golang.org/x/image v0.30.0
 	golang.org/x/sys v0.36.0
-	golang.org/x/text v0.28.0
+	golang.org/x/text v0.30.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
@@ -96,9 +96,9 @@ require (
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	github.com/zclconf/go-cty v1.16.3 // indirect
-	golang.org/x/sync v0.16.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
 	golang.org/x/term v0.32.0 // indirect
-	golang.org/x/tools v0.36.0 // indirect
+	golang.org/x/tools v0.37.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 )
 
