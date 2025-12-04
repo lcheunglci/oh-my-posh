@@ -39,7 +39,7 @@ require (
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/hashicorp/hcl/v2 v2.24.0
 	github.com/mattn/go-runewidth v0.0.19
-	github.com/spf13/cobra v1.10.1
+	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/mod v0.29.0
