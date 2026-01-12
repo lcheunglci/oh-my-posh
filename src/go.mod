@@ -29,7 +29,7 @@ require (
 	golang.org/x/image v0.34.0
 	golang.org/x/sys v0.40.0
 	golang.org/x/text v0.32.0
-	gopkg.in/ini.v1 v1.67.0
+	gopkg.in/ini.v1 v1.67.1
 )
 
 require (
