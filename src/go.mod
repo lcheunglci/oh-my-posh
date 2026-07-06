@@ -13,8 +13,8 @@ require (
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gookit/color v1.6.1
-	github.com/gookit/config/v2 v2.2.8
-	github.com/gookit/goutil v0.7.5 // indirect
+	github.com/gookit/config/v2 v2.2.9
+	github.com/gookit/goutil v0.8.0 // indirect
 	github.com/huandu/xstrings v1.5.0 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0
