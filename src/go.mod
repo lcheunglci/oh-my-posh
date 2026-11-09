@@ -38,7 +38,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.25.0
 	github.com/mattn/go-runewidth v0.0.31
 	github.com/spf13/cobra v1.10.2
-	github.com/spf13/pflag v1.0.10
+	github.com/spf13/pflag v1.1.0
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/mod v0.41.0
 	gopkg.in/yaml.v3 v3.0.1
